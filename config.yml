@@ -1,0 +1,8 @@
+#
+# IF YOU DO NOT CORRECTLY FILL OUT
+# DATABASE INFORMATION THE PLUGIN WILL
+# EXIT
+db_host:
+db_name:
+db_user:
+db_password:

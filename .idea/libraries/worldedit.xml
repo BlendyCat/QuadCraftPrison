@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="worldedit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Btools/plugins/worldedit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

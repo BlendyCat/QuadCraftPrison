@@ -1,0 +1,25 @@
+main: com.blendycat.prison.QuadPrison
+name: QuadPrison
+version: 0.0.3
+depend: [Vault, WorldEdit]
+author: BlendyCat
+commands:
+  mineregion:
+    description: control or add mine regions
+    usage: /<command> <subcommand> <args>
+  cellblock:
+    description: modify or add cell blocks
+    usage: /<command> <subcommand> <args>
+  cell:
+    description: buy and view cell information
+    usage: /<command> <subcommand> <args>
+  prisonblock:
+    description: modify or add prison blocks
+    usage: /<command> <subcommand> <args>
+    aliases: [pb]
+  rankup:
+    description: rank up command
+    usage: /<command> [<subcommand> <args>]
+  portal:
+    description: portal command
+    usage: /<command> [<subcommand> <args>]
